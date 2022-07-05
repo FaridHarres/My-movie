@@ -12,7 +12,7 @@ export default function Header() {
           style={{backgroundColor: "black",}}
         >
           <NavbarBrand href="/">
-            <img src='./img/logo.png' style={{ width: "80px", margin: "5px" }} />
+            <img src='./img/logo.png' style={{ width: "80px", margin: "5px" }} alt="logo" />
           </NavbarBrand>
           <NavbarToggler onClick={function noRefCheck() { }} />
           <Collapse navbar>

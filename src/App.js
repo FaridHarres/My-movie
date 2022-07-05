@@ -14,15 +14,15 @@ function App() {
       name: "BadBoys 3",
       desc: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       img: "./img/badboy3.jpg",
-      note: 7,
-      vote: 5
+      note: 10,
+      vote: 2
     },
     {
       name: "Frozen",
       desc: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       img: "./img/frozen.jpg",
-      note: 8.2,
-      vote: 3
+      note: 10,
+      vote: 4
     },
     {
       name: "jumanji",
